@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "874726844933",
+    "project_id": "gourav-fcm-server-1",
+    "storage_bucket": "gourav-fcm-server-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874726844933:android:90e638dc3c7205c63bca6c",
+        "android_client_info": {
+          "package_name": "com.gouravjat.multiserverfcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "874726844933-d5f05ecjlgbfjm58hbnn8d2bfi62ip1b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gouravjat.multiserverfcm",
+            "certificate_hash": "33583794610191793cb6a84c9090a63015914c14"
+          }
+        },
+        {
+          "client_id": "874726844933-ptasnm2plapiiu62l0ks1t8h2jdmumap.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9BTWkrnbWhsuxg-gXBoa-IxrVCfpljdc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "874726844933-ptasnm2plapiiu62l0ks1t8h2jdmumap.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
